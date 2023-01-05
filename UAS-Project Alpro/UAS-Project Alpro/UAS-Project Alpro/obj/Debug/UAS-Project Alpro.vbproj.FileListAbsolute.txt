@@ -1,0 +1,23 @@
+C:\Users\BISILLAH NAWAITU\AppData\Local\Temporary Projects\UAS-Project Alpro\bin\Debug\UAS-Project Alpro.exe.config
+C:\Users\BISILLAH NAWAITU\AppData\Local\Temporary Projects\UAS-Project Alpro\bin\Debug\UAS-Project Alpro.exe
+C:\Users\BISILLAH NAWAITU\AppData\Local\Temporary Projects\UAS-Project Alpro\bin\Debug\UAS-Project Alpro.pdb
+C:\Users\BISILLAH NAWAITU\AppData\Local\Temporary Projects\UAS-Project Alpro\bin\Debug\UAS-Project Alpro.xml
+C:\Users\BISILLAH NAWAITU\AppData\Local\Temporary Projects\UAS-Project Alpro\obj\Debug\UAS-Project Alpro.vbprojResolveAssemblyReference.cache
+C:\Users\BISILLAH NAWAITU\AppData\Local\Temporary Projects\UAS-Project Alpro\obj\Debug\UAS_Project_Alpro.Form1.resources
+C:\Users\BISILLAH NAWAITU\AppData\Local\Temporary Projects\UAS-Project Alpro\obj\Debug\UAS_Project_Alpro.Resources.resources
+C:\Users\BISILLAH NAWAITU\AppData\Local\Temporary Projects\UAS-Project Alpro\obj\Debug\UAS-Project Alpro.vbproj.GenerateResource.Cache
+C:\Users\BISILLAH NAWAITU\AppData\Local\Temporary Projects\UAS-Project Alpro\obj\Debug\UAS-Project Alpro.exe
+C:\Users\BISILLAH NAWAITU\AppData\Local\Temporary Projects\UAS-Project Alpro\obj\Debug\UAS-Project Alpro.xml
+C:\Users\BISILLAH NAWAITU\AppData\Local\Temporary Projects\UAS-Project Alpro\obj\Debug\UAS-Project Alpro.pdb
+C:\Users\BISILLAH NAWAITU\Documents\Visual Studio 2012\Projects\UAS-Project Alpro\UAS-Project Alpro\bin\Debug\UAS-Project Alpro.exe.config
+C:\Users\BISILLAH NAWAITU\Documents\Visual Studio 2012\Projects\UAS-Project Alpro\UAS-Project Alpro\obj\Debug\UAS-Project Alpro.exe
+C:\Users\BISILLAH NAWAITU\Documents\Visual Studio 2012\Projects\UAS-Project Alpro\UAS-Project Alpro\obj\Debug\UAS-Project Alpro.xml
+C:\Users\BISILLAH NAWAITU\Documents\Visual Studio 2012\Projects\UAS-Project Alpro\UAS-Project Alpro\obj\Debug\UAS-Project Alpro.pdb
+C:\Users\BISILLAH NAWAITU\Documents\Visual Studio 2012\Projects\UAS-Project Alpro\UAS-Project Alpro\bin\Debug\UAS-Project Alpro.exe
+C:\Users\BISILLAH NAWAITU\Documents\Visual Studio 2012\Projects\UAS-Project Alpro\UAS-Project Alpro\bin\Debug\UAS-Project Alpro.pdb
+C:\Users\BISILLAH NAWAITU\Documents\Visual Studio 2012\Projects\UAS-Project Alpro\UAS-Project Alpro\bin\Debug\UAS-Project Alpro.xml
+C:\Users\BISILLAH NAWAITU\Documents\Visual Studio 2012\Projects\UAS-Project Alpro\UAS-Project Alpro\obj\Debug\UAS-Project Alpro.vbprojResolveAssemblyReference.cache
+C:\Users\BISILLAH NAWAITU\Documents\Visual Studio 2012\Projects\UAS-Project Alpro\UAS-Project Alpro\obj\Debug\UAS_Project_Alpro.Form1.resources
+C:\Users\BISILLAH NAWAITU\Documents\Visual Studio 2012\Projects\UAS-Project Alpro\UAS-Project Alpro\obj\Debug\UAS_Project_Alpro.Resources.resources
+C:\Users\BISILLAH NAWAITU\Documents\Visual Studio 2012\Projects\UAS-Project Alpro\UAS-Project Alpro\obj\Debug\UAS-Project Alpro.vbproj.GenerateResource.Cache
+C:\Users\BISILLAH NAWAITU\Documents\Visual Studio 2012\Projects\UAS-Project Alpro\UAS-Project Alpro\obj\Debug\UAS_Project_Alpro.FormLogin.resources
